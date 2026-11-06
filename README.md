@@ -2,9 +2,6 @@
 
 An end-to-end machine learning project that predicts an Iris flower species from four physical measurements. It includes exploratory data analysis, a trained Logistic Regression model, saved preprocessing artifacts, and an interactive Streamlit application.
 
-## Live Demo
-
-Deploy this repository on [Streamlit Community Cloud](https://share.streamlit.io/) and add the app URL here.
 
 ## Demo
 
